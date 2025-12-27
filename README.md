@@ -14,6 +14,6 @@ Propel is a web-based property management dashboard built for landlords, propert
 - Most property management software is either outdated or painfully overcomplicated. Propel cuts through that. It’s modern, focused, and easy to use without sacrificing a professional feel. The goal is simple: help users manage properties efficiently without fighting the interface.
 
 ## Live preview
-Link to the website: https://denysovski.github.io/AurexCrypto/
+Link to the website: https://denysovski.github.io/PropelMarketing/
 
 <img alt="screencapture-127-0-0-1-5500-index-html-2025-12-27-06_17_14" src="https://github.com/user-attachments/assets/cb2ee037-b4f5-4236-b0cd-54bb4eda8146" />
