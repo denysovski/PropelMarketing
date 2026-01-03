@@ -16,4 +16,4 @@ Propel is a web-based property management dashboard built for landlords, propert
 ## Live preview
 Link to the website: https://denysovski.github.io/PropelMarketing/
 
-<img alt="screencapture-denysovski-github-io-PropelMarketing-2026-01-04-00_06_29" src="https://github.com/user-attachments/assets/1b1581fa-e6a2-43c8-86ab-593cf3b30941" />[otazky.pdf](https://github.com/user-attachments/files/24419102/otazky.pdf)
+<img alt="screencapture-denysovski-github-io-PropelMarketing-2026-01-04-00_06_29" src="https://github.com/user-attachments/assets/1b1581fa-e6a2-43c8-86ab-593cf3b30941" />
